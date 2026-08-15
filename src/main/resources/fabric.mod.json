@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "instantriptide",
+  "version": "${version}",
+  "name": "Instant Riptide",
+  "description": "Allows you use Trident with Riptide on a surface",
+  "authors": [
+    "shareui"
+  ],
+  "contact": {
+    "sources": "https://github.com/shareui/instant-riptide",
+    "issues": "https://github.com/shareui/instant-riptide/issues"
+  },
+  "license": "GPL-3.0",
+  "icon": "assets/instantriptide/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "de.shareui.instantriptide.client.InstantriptideDataGenerator"
+    ],
+    "client": [
+      "de.shareui.instantriptide.client.InstantriptideClient"
+    ],
+    "main": [
+      "de.shareui.instantriptide.Instantriptide"
+    ],
+    "modmenu": [
+      "de.shareui.instantriptide.client.InstantriptideModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "instantriptide.mixins.json",
+    {
+      "config": "instantriptide.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  },
+  "suggests": {
+    "modmenu": "*",
+    "cloth-config": "*"
+  }
+}

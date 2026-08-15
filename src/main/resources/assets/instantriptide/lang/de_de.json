@@ -1,0 +1,18 @@
+{
+  "message.instantriptide.missing_bucket": "Kein Wassereimer in der Schnellzugriffsleiste",
+  "message.instantriptide.no_elytra": "Keine Elytren am Spieler gefunden",
+  "message.instantriptide.enabled": "Automatischer Sturmangriff aktiviert",
+  "message.instantriptide.disabled": "Automatischer Sturmangriff deaktiviert",
+  "key.category.instantriptide.keys": "Instant Riptide",
+  "key.instantriptide.toggle": "Automatischen Sturmangriff umschalten",
+  "config.instantriptide.title": "Instant Riptide",
+  "config.instantriptide.category.general": "Allgemein",
+  "config.instantriptide.mode": "Modus",
+  "config.instantriptide.mode.tooltip": "Instant giesst das Wasser aus und startet den Sturmangriff im selben Tick. Legit spielt eine langsamere, spielerähnliche Abfolge aus Schnellzugriffswechseln und Kamerabewegungen ab",
+  "config.instantriptide.mode.instant": "Instant",
+  "config.instantriptide.mode.legit": "Legit",
+  "config.instantriptide.water_refill": "Eimer nach dem Sturmangriff auffüllen",
+  "config.instantriptide.water_refill.tooltip": "Nimmt das ausgegossene Wasser direkt nach dem Sturmangriff wieder in einen leeren Eimer auf",
+  "config.instantriptide.use_elytra": "Elytren benutzen",
+  "config.instantriptide.use_elytra.tooltip": "Öffnet die Elytren nach einem Boden-Sturmangriff automatisch, sobald du den Boden verlässt. Erfordert getragene Elytren im Brustslot"
+}

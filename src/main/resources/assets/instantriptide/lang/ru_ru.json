@@ -1,0 +1,18 @@
+{
+  "message.instantriptide.missing_bucket": "Отсутствует ведро с водою в быстром доступе",
+  "message.instantriptide.no_elytra": "Элитра не найдена на игроке",
+  "message.instantriptide.enabled": "Авто-тягун включен",
+  "message.instantriptide.disabled": "Авто-тягун выключен",
+  "key.category.instantriptide.keys": "Instant Riptide",
+  "key.instantriptide.toggle": "Переключить авто-тягун",
+  "config.instantriptide.title": "Instant Riptide",
+  "config.instantriptide.category.general": "Общее",
+  "config.instantriptide.mode": "Режим",
+  "config.instantriptide.mode.tooltip": "Instant мгновенно выливает воду и запускает рывок в тот же тик. Legit разыгрывает более медленную, похожую на игрока последовательность переключений хотбара и движений камеры",
+  "config.instantriptide.mode.instant": "Instant",
+  "config.instantriptide.mode.legit": "Legit",
+  "config.instantriptide.water_refill": "Восполнять ведро",
+  "config.instantriptide.water_refill.tooltip": "Забирает вылитую воду обратно в пустое ведро сразу после рывка тягуном",
+  "config.instantriptide.use_elytra": "Использовать элитру",
+  "config.instantriptide.use_elytra.tooltip": "После наземного рывка тягуном автоматически раскрывает элитру в момент отрыва от земли. Требует надетую элитру в слоте нагрудника"
+}

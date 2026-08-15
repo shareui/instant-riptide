@@ -1,0 +1,18 @@
+{
+  "message.instantriptide.missing_bucket": "No water bucket in the hotbar",
+  "message.instantriptide.no_elytra": "No elytra found on the player",
+  "message.instantriptide.enabled": "Auto-riptide enabled",
+  "message.instantriptide.disabled": "Auto-riptide disabled",
+  "key.category.instantriptide.keys": "Instant Riptide",
+  "key.instantriptide.toggle": "Toggle Auto-Riptide",
+  "config.instantriptide.title": "Instant Riptide",
+  "config.instantriptide.category.general": "General",
+  "config.instantriptide.mode": "Mode",
+  "config.instantriptide.mode.tooltip": "Instant pours the water and launches on the same tick. Legit plays out a slower, player-like sequence of hotbar switches and camera moves",
+  "config.instantriptide.mode.instant": "Instant",
+  "config.instantriptide.mode.legit": "Legit",
+  "config.instantriptide.water_refill": "Refill bucket after launch",
+  "config.instantriptide.water_refill.tooltip": "Picks the poured water back into an empty bucket right after the riptide launch",
+  "config.instantriptide.use_elytra": "Use elytra",
+  "config.instantriptide.use_elytra.tooltip": "After a ground-riptide launch, automatically opens the elytra the instant you leave the ground. Requires an elytra to be worn in the chest slot"
+}

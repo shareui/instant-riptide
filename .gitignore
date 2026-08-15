@@ -1,0 +1,10 @@
+build/
+out/
+run/
+.idea/
+*.iml
+.vscode/
+.gradle/
+.settings/
+bin/
+local.properties
