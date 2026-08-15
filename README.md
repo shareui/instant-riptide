@@ -5,10 +5,13 @@ The mod pours water under the player's feet on its own (and picks it back up int
 the launch), and can also auto-deploy the elytra the instant the player leaves the ground after a
 ground-riptide launch.
 
-> My first Minecraft mod btw
-
 - [Releases](https://github.com/shareui/instant-riptide/releases)
 - [Issues](https://github.com/shareui/instant-riptide/issues)
+
+## Showcase
+
+![Menu](https://raw.githubusercontent.com/shareui/instant-riptide/refs/heads/main/assets/menu.png)
+![Settings](https://raw.githubusercontent.com/shareui/instant-riptide/refs/heads/main/assets/settings.png)
 
 ## Runtime dependencies
 
