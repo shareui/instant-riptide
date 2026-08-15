@@ -10,8 +10,10 @@ ground-riptide launch.
 
 ## Showcase
 
-![Menu](https://raw.githubusercontent.com/shareui/instant-riptide/refs/heads/main/assets/menu.png)
-![Settings](https://raw.githubusercontent.com/shareui/instant-riptide/refs/heads/main/assets/settings.png)
+<p>
+  <img src="https://raw.githubusercontent.com/shareui/instant-riptide/refs/heads/main/assets/menu.png" width="400">
+  <img src="https://raw.githubusercontent.com/shareui/instant-riptide/refs/heads/main/assets/settings.png" width="400">
+</p>
 
 ## Runtime dependencies
 
